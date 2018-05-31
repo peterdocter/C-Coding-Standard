@@ -1,1 +1,3 @@
 # C-Coding-Standard
+
+C-Coding-Standard.pdf翻译中...
